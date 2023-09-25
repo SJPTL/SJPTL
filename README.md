@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SJPTL or Parker Svoboda
 - 👀 I’m interested in ... programming and japan
 - 🌱 I’m currently learning ... Java and C#
-- 💞️ I’m looking to collaborate on ... Tira
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
 <!---
