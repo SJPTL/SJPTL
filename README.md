@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SJPTL or Parker Svoboda
+- 👋 Hi, I’m @SJPTL
 - 👀 I’m interested in ... programming and japan
 - 🌱 I’m currently learning ... Java and C#
 - 💞️ I’m looking to collaborate on ... 
